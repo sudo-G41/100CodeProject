@@ -6,4 +6,7 @@
 ## LinkedList
 [2. LinkedList(삽입, 출력)](/c/2_linkedlist.c)  
 [3. LinkedList(삭제)](/c/2_linkedlist.c)  
-[4. LinkedList(탐색)](/c/2_linkedlist.c)
+[4. LinkedList(탐색)](/c/2_linkedlist.c)  
+[5. stack(push)](/c/3_stack.c)  
+[6. stack(pop)](/c/3_stack.c)  
+[7. stack(peek & print)](/c/3_stack.c)  

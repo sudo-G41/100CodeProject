@@ -11,3 +11,6 @@
 [6. Stack(pop)](/c/3_stack.c)  
 [7. Stack(peek & print)](/c/3_stack.c)  
 [8. Tree 탐색(전위,중위,후위)](/c/4_tree.c)  
+# 2day
+## Graph
+[9. Graph(배열을 이용한)](/c/5_graph.c)  

@@ -11,5 +11,6 @@
 [8. Tree 탐색(전위,중위,후위)](/c/4_tree.c)  
 # 2day
 [9. Graph(배열을 이용한)](/c/5_graph.c)  
-[10. 백준 5639번 문제 풀이](/baekjoon/5639/solution.md) ([문제 링크](https://www.acmicpc.net/problem/5639))  
+# 3day
+[10. 백준 5639번 문제 답](/baekjoon/5639/solution.md) ([문제 링크](https://www.acmicpc.net/problem/5639))  
 [11. DFS BFS](python/1_graph.py)  

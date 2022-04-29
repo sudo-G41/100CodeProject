@@ -14,3 +14,4 @@
 # 2day
 ## Graph
 [9. Graph(배열을 이용한)](/c/5_graph.c)  
+[10. 백준 5639번 문제 답](/baekjoon/5639/solution.md) ([문제 링크](https://www.acmicpc.net/problem/5639))  

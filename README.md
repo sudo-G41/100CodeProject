@@ -14,3 +14,4 @@
 # 3day
 [10. 백준 5639번 문제 답](/baekjoon/5639/solution.md) ([문제 링크](https://www.acmicpc.net/problem/5639))  
 [11. DFS BFS](python/1_graph.py)  
+[12. make 연습](c/makeStudy/makefile.md)  

@@ -4,9 +4,9 @@
 #include<time.h>
 
 #define SIZE 10
-void merge(int*);
-void radix(int*);
-void heap(int*);
+void merge(int[]);
+void radix(int[]);
+void heap(int[]);
 
 int main(){
 	int arr[SIZE];
@@ -35,6 +35,7 @@ int main(){
 	}
 	printf("\n");
 	merge(arr1);
+	radix(arr2);
 	return 0;
 }
 void combine(int arr[], int i, int j, int size){
@@ -74,5 +75,26 @@ void merge(int arr[]){
 	}
 	printf("\n");
 }
-void radix(int* arr);
+void radix(int arr[]){
+	int a[10][10000];
+	for(int i=0;i<10;i++)
+		a[i][0]=1;
+	for(int i=0,j=1;i<3;i++){
+		for(int idx=0; idx<SIZE; idx++){
+			int tmp = (arr[idx]/j)%10;
+			a[tmp][a[tmp][0]++] = arr[idx];
+		}
+		for(int idx = 0, asdf=0;idx<10;idx++){
+			for(int qwer=1;qwer<a[idx][0];qwer++)
+				arr[asdf++]=a[idx][qwer];
+			a[idx][0]=1;
+		}
+		j*=10;
+	}
+	printf("Radix : ");
+	for(int i=0; i<SIZE; i++){
+		printf("%d ",arr[i]);
+	}
+	printf("\n");
+}
 void heap(int* arr);

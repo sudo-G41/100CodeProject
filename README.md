@@ -18,3 +18,6 @@
 [13. merge sort](c/6_sort.c)  
 # 4 day
 [14. radix sort](c/6_sort.c)  
+# 5. day
+# 6. day
+[15. heap sort](c/6_sort.c)  

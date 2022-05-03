@@ -1,8 +1,12 @@
+#include<limits.h>
 #include"graphArr.h"
+
 int** graphMakeArr(int size){
 	int** arr = (int**)calloc(size, sizeof(int*));
 	for(int i=0;i<size;i++){
-		arr[i]=(int*)calloc(size, sizeof(int));
+		arr[i]=(int*)malloc(size*sizeof(int));
+		for(int j = 0;j<size;j++)
+			arr[i][j] = INT_MAX/2;
 	}
 	return arr;
 }
@@ -15,35 +19,28 @@ void input(int size, int** arr){
 	}
 }
 int* dijkstraArr(int size, int** arr, int root){
-	int now = root;
-	int* dijk = (int*)calloc(size,sizeof(int));
+	int* d = (int*)malloc(size*sizeof(int));
 	int* flag = (int*)calloc(size,sizeof(int));
-	for(int i=1;i<size;i++){
-		flag[now] = 1;
-		int min = root;
-		for(int idx=0;idx<size;idx++){
-			if(flag[idx]==0){
-				if(dijk[idx]==0){
-					dijk[idx] = arr[now][idx];
+	memcpy(d,arr[root],size*sizeof(int));
+	int idx;
+	int now = root;
+	int min = now;
+	flag[root] = 1;
+	for(int i=0;i<size;i++){
+		idx = 0;
+		min = root;
+		while(idx<size){
+			if(flag[idx]<1){
+				if(d[idx]>d[now]+arr[now][idx]){
+					d[idx] = d[now]+arr[now][idx];
 				}
-				else if(arr[now][idx]>0){
-					int tmp = dijk[idx]+arr[now][idx];
-					if(arr[root][idx]==0){
-						dijk[idx]+=arr[now][idx];
-					}
-					else if(tmp<arr[root][idx]){
-						dijk[idx] = tmp;
-					}
-				}
-				if(dijk[min]==0){
-					min=idx;
-				}
-				else{
-					min=dijk[idx]<dijk[min]?idx:min;
-				}
+				min = d[min]<d[idx]?min:idx;
 			}
+			idx++;
 		}
+		flag[min] = 1;
 		now = min;
 	}
-	return dijk;
+	d[root]=0;
+	return d;
 }

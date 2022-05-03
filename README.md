@@ -21,4 +21,6 @@
 # 5. day
 # 6. day
 [15. heap sort](c/6_sort.c)  
-[16. dijkstra](c/7_graph)진행중...  
+# 7.day
+[16. dijkstra](c/7_graph)  
+

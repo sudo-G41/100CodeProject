@@ -2,6 +2,7 @@
 100개 아니더라도 상관없다 많이 무언가를 하기 위해!
 # Tools & Platforms & Languages
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?&style=for-the-badge&logo=Vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)

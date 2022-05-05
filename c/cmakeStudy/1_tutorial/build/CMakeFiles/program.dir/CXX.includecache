@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sutjjang/Code/git/100CodeProject/c/cmakeStudy/1_tutorial/func2.cc
+func2.h
+/home/sutjjang/Code/git/100CodeProject/c/cmakeStudy/1_tutorial/func2.h
+
+/home/sutjjang/Code/git/100CodeProject/c/cmakeStudy/1_tutorial/func2.h
+iostream
+-
+string
+-
+

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/program.dir/main.cc.o CMakeFiles/program.dir/func1.cc.o CMakeFiles/program.dir/func2.cc.o -o program 

@@ -1,3 +1,0 @@
-/home/sutjjang/Code/git/100CodeProject/c/cmakeStudy/1_tutorial/build/CMakeFiles/rebuild_cache.dir
-/home/sutjjang/Code/git/100CodeProject/c/cmakeStudy/1_tutorial/build/CMakeFiles/program.dir
-/home/sutjjang/Code/git/100CodeProject/c/cmakeStudy/1_tutorial/build/CMakeFiles/edit_cache.dir

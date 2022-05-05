@@ -24,3 +24,5 @@
 # 7.day
 [16. dijkstra](c/7_graph)  
 [17. union-find](c/kruskal/lib/unionfind.c)  
+# 8.day
+[18. 프로그래머스 후보키 문제 답](programmers/42890/README.md)  

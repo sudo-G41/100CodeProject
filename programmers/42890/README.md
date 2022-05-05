@@ -29,7 +29,7 @@
 - is_only_one 함수는 유일성을 검사하는 함수로 make_index_list 함수로 만들어진 인덱스 집합을 가져와서 해당 인덱스에 있는 속성을 묶은 집합을 만들어 해당 집합의 원소의 개수가 릴레이션의 길이와 같은지 확인하는 방법으로 유일성을 확인한다.  
 - is_minimal 함수는 이미 유일성 및 최소성을 만족하고 있는 인덱스를 포함하고 있는 집합인지 확인하여 최소성을 보장한다.
 
-## 구현([전체 코드 파일](programmers/42890/Solution.py))
+## 구현([전체 코드 파일](Solution.py))
 ``` python
 #solution
 def solution(relation):

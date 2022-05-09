@@ -37,5 +37,5 @@
 # 10.day
 # 11.day
 # 12.day
-[18. 백준 구간합.5 문제 풀이](/baekjoon/11660/c.c) ([문제 링크](https://programmers.co.kr/learn/courses/29/lessons/42890?language=python3)) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
-[18. 백준 감소하는 수 문제 풀이](/baekjoon/1038/c.c) ([문제 링크](https://programmers.co.kr/learn/courses/29/lessons/42890?language=python3)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+[18. 백준 구간합.5 문제 풀이](/baekjoon/11660/c.c) ([문제 링크](https://www.acmicpc.net/problem/11660)) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
+[19. 백준 감소하는 수 문제 풀이](/baekjoon/1038/c.c) ([문제 링크](https://www.acmicpc.net/problem/1038)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 

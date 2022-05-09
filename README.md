@@ -19,7 +19,7 @@
 # 2day
 [9. Graph(배열을 이용한)](/c/5_graph.c) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
 # 3day
-[10. 백준 5639번 문제 답](/baekjoon/5639/solution.md) ([문제 링크](https://www.acmicpc.net/problem/5639)) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>    
+[10. 백준 5639번 문제 답](/baekjoon/5639) ([문제 링크](https://www.acmicpc.net/problem/5639)) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>    
 [11. DFS BFS](python/1_graph.py) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
 [12. make 연습](c/makeStudy/makefile.md)  
 [13. merge sort](c/6_sort.c) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
@@ -32,10 +32,10 @@
 [16. dijkstra](c/7_graph) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
 [17. union-find](c/kruskal/lib/unionfind.c) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>   
 # 8.day
-[18. 프로그래머스 후보키 문제 답](programmers/42890/README.md) ([문제 링크](https://programmers.co.kr/learn/courses/29/lessons/42890?language=python3)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+[18. 프로그래머스 후보키 문제 답](programmers/42890) ([문제 링크](https://programmers.co.kr/learn/courses/29/lessons/42890?language=python3)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
 # 9.day
 # 10.day
 # 11.day
 # 12.day
-[18. 백준 구간합.5 문제 풀이](/baekjoon/11660/c.c) ([문제 링크](https://www.acmicpc.net/problem/11660)) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
-[19. 백준 감소하는 수 문제 풀이](/baekjoon/1038/c.py) ([문제 링크](https://www.acmicpc.net/problem/1038)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+[18. 백준 구간합.5 문제 풀이](/baekjoon/11660) ([문제 링크](https://www.acmicpc.net/problem/11660)) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
+[19. 백준 감소하는 수 문제 풀이](/baekjoon/1038) ([문제 링크](https://www.acmicpc.net/problem/1038)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 

@@ -38,7 +38,7 @@
 # 9.day
 [21. 백준 N과 M(5) 문제 풀이](/baekjoon/15654) ([문제 링크](https://www.acmicpc.net/problem/15654)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 # 10.day
-[22. 폴짝폴짝 문제 풀이](/baekjoon/1326폴짝폴짝) ([문제 링크](https://www.acmicpc.net/problem/1326)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+[22. 폴짝폴짝 문제 풀이](/baekjoon/1326폴짝폴짝) ([문제 링크](https://www.acmicpc.net/problem/1326)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
 [23. 등차수열의 합 문제 풀이](/baekjoon/1419등차수열의합) ([문제 링크](https://www.acmicpc.net/problem/1419)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
 [24. 소수의 연속 합 문제 풀이](/baekjoon/1644소수의연속합) ([문제 링크](https://www.acmicpc.net/problem/1644)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
 [25. A → B 문제 풀이](/baekjoon/16953A->B) ([문제 링크](https://www.acmicpc.net/problem/16953)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   

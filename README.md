@@ -49,3 +49,4 @@
 [30. 30(문제 이름이 "30"입니다...) 문제 풀이](/baekjoon/10610_30) ([문제 링크](https://www.acmicpc.net/problem/10610)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
 # 11.day
 [31. 행렬 제곱 문제 풀이](/baekjoon/10830행렬제곱) ([문제 링크](https://www.acmicpc.net/problem/10830)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+[32. 트리 색칠하기 문제 풀이](/baekjoon/24230트리색칠하기) ([문제 링크](https://www.acmicpc.net/problem/24230)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  

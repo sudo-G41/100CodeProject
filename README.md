@@ -46,4 +46,6 @@
 [27. Yes or yes 문제 풀이](/baekjoon/25195Yesoryes) ([문제 링크](https://www.acmicpc.net/problem/25195)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
 [28. 숲속에서 새 구경하기 문제 풀이](/baekjoon/25196숲속에서새구경하기) ([문제 링크](https://www.acmicpc.net/problem/25196)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
 [29. 곰곰이의 식단관리 문제 풀이](/baekjoon/25193곰곰이의식단관리) ([문제 링크](https://www.acmicpc.net/problem/25193)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
-[30. 30(문제 이름이 "30"입니다...) 문제 풀이](/baekjoon/10610(30)) ([문제 링크](https://www.acmicpc.net/problem/10610)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
+[30. 30(문제 이름이 "30"입니다...) 문제 풀이](/baekjoon/10610_30) ([문제 링크](https://www.acmicpc.net/problem/10610)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
+# 11.day
+[31. 행렬 제곱 문제 풀이](/baekjoon/10830행렬제곱) ([문제 링크](https://www.acmicpc.net/problem/10830)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  

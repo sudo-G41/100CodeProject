@@ -50,3 +50,5 @@
 # 11.day
 [31. 행렬 제곱 문제 풀이](/baekjoon/10830행렬제곱) ([문제 링크](https://www.acmicpc.net/problem/10830)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
 [32. 트리 색칠하기 문제 풀이](/baekjoon/24230트리색칠하기) ([문제 링크](https://www.acmicpc.net/problem/24230)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+# 12.day
+[33. 곰곰이와 자판기 문제 풀이](/baekjoon/25200곰곰이와자판기) ([문제 링크](https://www.acmicpc.net/problem/25200)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  

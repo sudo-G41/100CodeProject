@@ -1,4 +1,4 @@
-# 백준[11660](https://www.acmicpc.net/problem/24230)번
+# 백준[24230](https://www.acmicpc.net/problem/24230)번
 ## 문제
  정점이 $N$개인 트리가 있다. 정점에는 1부터
 

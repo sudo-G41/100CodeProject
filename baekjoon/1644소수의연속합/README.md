@@ -1,4 +1,4 @@
-# 백준[11660](https://www.acmicpc.net/problem/1644)번
+# 백준[1644](https://www.acmicpc.net/problem/1644)번
 ## 문제
 하나 이상의 연속된 소수의 합으로 나타낼 수 있는 자연수들이 있다. 몇 가지 자연수의 예를 들어 보면 다음과 같다.
 

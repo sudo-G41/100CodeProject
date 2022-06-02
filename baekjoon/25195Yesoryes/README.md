@@ -1,4 +1,4 @@
-# 백준[11660](https://www.acmicpc.net/problem/25195)번
+# 백준[25195](https://www.acmicpc.net/problem/25195)번
 ## 문제
  $N$개의 정점과 $M$개의 간선으로 이루어진, 사이클이 없는 방향그래프(DAG)가 주어진다.
 

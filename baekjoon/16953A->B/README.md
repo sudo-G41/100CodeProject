@@ -1,4 +1,4 @@
-# 백준[11660](https://www.acmicpc.net/problem/16953)번
+# 백준[16953](https://www.acmicpc.net/problem/16953)번
 ## 문제
  정수 A를 B로 바꾸려고 한다. 가능한 연산은 다음과 같은 두 가지이다.
 

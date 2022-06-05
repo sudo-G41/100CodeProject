@@ -71,7 +71,7 @@ bool Node::haveLeft(){
 	return this->left != NULL;
 }
 
-Node* makeTree(VI idxHashTable, VI inOrder, VI postOrder);
+Node* makeTree(VI idxHashTable, VI postOrder);
 VI makeHashTable(VI inOrder);
 void printVector(VI v);
 void freeOrder(Node* root);
@@ -90,11 +90,13 @@ int main(){
 		std::cin>> postOrder[i];
 	}
 	VI idxHashTable = makeHashTable(inOrder);
-	freeOrder(makeTree(idxHashTable,inOrder,postOrder));
+	Node* tree = makeTree(idxHashTable, postOrder);
+	freeOrder(tree);
+	delete tree;
     return 0;
 }
 
-Node* makeTree(VI idxHashTable, VI inOrder, VI postOrder){
+Node* makeTree(VI idxHashTable, VI postOrder){
 	auto node = postOrder.rbegin();
 	std::stack<Node*> nodeStack;
 	Node* root = new Node(*node,0,postOrder.size());
@@ -140,13 +142,6 @@ VI makeHashTable(VI inOrder){
 		hashTable[inOrder[idx]] = idx;
 	}
 	return hashTable;
-}
-
-void printVector(VI v){
-	for(auto it=v.begin(); it!=v.end(); it++){
-		std::cout<< *it<<' ';
-	}
-	std::cout<<'\n';
 }
 
 void freeOrder(Node* root){

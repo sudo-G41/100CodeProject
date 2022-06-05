@@ -54,3 +54,8 @@
 [33. 곰곰이와 자판기 문제 풀이](/baekjoon/25200곰곰이와자판기) ([문제 링크](https://www.acmicpc.net/problem/25200)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
 # 13.day
 [34. 오리 문제 풀이](/baekjoon/12933오리) ([문제 링크](https://www.acmicpc.net/problem/12933)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+# 14.day
+[35. 하노이의 탑 문제 풀이](/programmers/12946하노이의탑/) ([문제 링크](https://programmers.co.kr/learn/courses/29/lessons/12946)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
+[36. 전설 문제 풀이](/baekjoon/19585전설/) ([문제 링크](https://www.acmicpc.net/problem/19585)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+# 15.day
+[37. 트리의 순회 문제 풀이](/baekjoon/2263트리의순회) ([문제 링크](https://www.acmicpc.net/problem/2263)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  

@@ -1,0 +1,1 @@
+cmake -S cmake_source_tree(source root directory ex ./) -B build_tree(build directory ex ./build) 

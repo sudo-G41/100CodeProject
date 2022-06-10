@@ -2,7 +2,9 @@ a.out
 in
 out
 test.*
-build/*
 Step*
 *.sh
 READMEsample.md
+*.cmake
+
+build/

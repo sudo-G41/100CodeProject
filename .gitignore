@@ -1,10 +1,13 @@
 a.out
 in
 out
+READMEsample.md
+
 test.*
 Step*
+
 *.sh
-READMEsample.md
 *.cmake
 
 build/
+.vscode/

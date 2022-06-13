@@ -65,3 +65,5 @@
 [38. CMake 공부](c/CMakeStudy) <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=Cmake&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
 # 17.day
 [39. CMake 공부2](c/CMakeStudy) <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=Cmake&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
+# 18.day
+[40. 게임 맵 최단거리 문제 풀이](/programmers/1844게임맵최단거리) ([문제 링크](https://programmers.co.kr/learn/courses/30/lessons/1844)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  

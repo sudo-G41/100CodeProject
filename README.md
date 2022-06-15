@@ -68,3 +68,5 @@
 # 18.day
 [40. 게임 맵 최단거리 문제 풀이](/programmers/1844게임맵최단거리) ([문제 링크](https://programmers.co.kr/learn/courses/30/lessons/1844)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
 [41. CMake 공부3](c/CMakeStudy) <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=Cmake&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
+# 19.day
+[42. 최단경로 문제 풀이](/baekjoon/1753최단경로) ([문제 링크](https://www.acmicpc.net/problem/1753)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  

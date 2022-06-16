@@ -70,3 +70,6 @@
 [41. CMake 공부3](c/CMakeStudy) <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=Cmake&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
 # 19.day
 [42. 최단경로 문제 풀이](/baekjoon/1753최단경로) ([문제 링크](https://www.acmicpc.net/problem/1753)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
+# 20.day
+[43. 트리순회 문제 풀이](/baekjoon/1991트리순회) ([문제 링크](https://www.acmicpc.net/problem/1991)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+[44. 정수삼각형 문제 풀이](/baekjoon/1932정수삼각형) ([문제 링크](https://www.acmicpc.net/problem/1932)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  

@@ -8,6 +8,7 @@ Step*
 
 *.sh
 *.cmake
+*.swp
 
 build/
 .vscode/

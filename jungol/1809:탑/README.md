@@ -1,4 +1,4 @@
-# Jungol[문제_레벨_및_이름](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&code=1809&sca=3020)
+# Jungol[탑](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&code=1809&sca=3020)
 ## 문제
     KOI 통신연구소는 레이저를 이용한 새로운 비밀 통신 시스템 개발을 위한 실험을 하고 있다. 
     실험을 위하여 일직선 위에 N개의 높이가 서로 다른 탑을 수평 직선의 왼쪽부터 오른쪽 방향으로 차례로 세우고, 

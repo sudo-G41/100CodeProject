@@ -1,4 +1,4 @@
-# Jungol[문제_레벨_및_이름](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=4611&sca=2050)
+# Jungol[STL - String](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=4611&sca=2050)
 ## 문제
     우선 문자열 A와 문자열 B가 입력된다. 그 후 A가 다시 입력 될 때까지 지속적으로 문자열을 입력을 받는다.
 

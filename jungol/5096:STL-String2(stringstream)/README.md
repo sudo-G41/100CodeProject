@@ -1,4 +1,4 @@
-# Jungol[문제_레벨_및_이름](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=4720&sca=2050)
+# Jungol[STL - String 2 (stringstream)](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=4720&sca=2050)
 ## 문제
     두 줄의 문장을 입력받아 각각 정렬시켜 출력하시오.
 

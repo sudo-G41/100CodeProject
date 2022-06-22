@@ -76,3 +76,4 @@
 # 21.day
 [45. STL - String 문제 풀이](/jungol/4987STL-String/) ([문제 링크](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=4611&sca=2050)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
 [46. STL - String 2 (string stream) 문제 풀이](/jungol/5096%3ASTL-String2(stringstream)/) ([문제 링크](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=4720&sca=2050)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
+[47. 탑 문제 풀이](/jungol/1809%3A%ED%83%91/) ([문제 링크](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&code=1809&sca=3020)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/> <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=Cmake&logoColor=white"/>  

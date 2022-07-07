@@ -79,3 +79,5 @@
 [47. 탑 문제 풀이](/jungol/1809%3A%ED%83%91/) ([문제 링크](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&code=1809&sca=3020)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/> <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=Cmake&logoColor=white"/>  
 # 22.day
 [48. 비밀번호 문제 풀이](/jungol/2468%3A%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8/) ([문제 링크](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&code=2468&sca=4010)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/> <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=Cmake&logoColor=white"/>  
+# 23.day
+[49. 프로그래밍 경진대회 (codeground 문제) 풀이](/codeGround/프로그래밍_경진대회) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  

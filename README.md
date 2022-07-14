@@ -81,3 +81,7 @@
 [48. 비밀번호 문제 풀이](/jungol/2468%3A%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8/) ([문제 링크](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&code=2468&sca=4010)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/> <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=Cmake&logoColor=white"/>  
 # 23.day
 [49. 프로그래밍 경진대회 (codeground 문제) 풀이](/codeGround/프로그래밍_경진대회) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
+# 24.day
+[50. 1배트 개수 세기 (codeground 문제) 풀이](/codeGround/1비트_개수_세기) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
+# 25.day
+[51. 바이러스 문제 풀이](/baekjoon/2606바이러스) ([문제 링크](https://www.acmicpc.net/problem/2606)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  

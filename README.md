@@ -90,6 +90,6 @@
 # 27.day
 [53. Scanner실험](/java/sample)  
 # 28.day
-[54. 백준 일루미네이션 풀이](/baekjoon/5547%EC%9D%BC%EB%A3%A8%EB%AF%B8%EB%84%A4%EC%9D%B4%EC%85%98) ([문제 링크](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&code=2468&sca=4010)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
-[55. 프로그래머스 체육복 풀이](/programmers/42862%EC%B2%B4%EC%9C%A1%EB%B3%B5/)) ([문제 링크](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&code=2468&sca=4010)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
-[56. 백준 1,2,3 더하기 풀이](/baekjoon/9095_123%EB%8D%94%ED%95%98%EA%B8%B0/) ([문제 링크](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&code=2468&sca=4010)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
+[54. 백준 일루미네이션 풀이](/baekjoon/5547%EC%9D%BC%EB%A3%A8%EB%AF%B8%EB%84%A4%EC%9D%B4%EC%85%98) ([문제 링크](https://www.acmicpc.net/problem/5547)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+[55. 프로그래머스 체육복 풀이](/programmers/42862%EC%B2%B4%EC%9C%A1%EB%B3%B5/)) ([문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42862)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
+[56. 백준 1,2,3 더하기 풀이](/baekjoon/9095_123%EB%8D%94%ED%95%98%EA%B8%B0/) ([문제 링크](https://www.acmicpc.net/problem/9095)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  

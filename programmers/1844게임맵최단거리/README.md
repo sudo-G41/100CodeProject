@@ -20,7 +20,7 @@
 
  그리고 이미 들렸던 곳은 다음에 또 들렸을 경우 더 많은 횟수로 도착한것 이기 때문에 이미 들렸던 곳은 다시 들릴 이유가 없으므로 매핑을 해서 한번 들린곳은 다시 찾지 안도록 해주어야 한다. 
 
-## 구현([전체 코드 파일](/programmers/폴더이름/코드파일))
+## 구현([전체 코드 파일](/programmers/1844%EA%B2%8C%EC%9E%84%EB%A7%B5%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/solution/solution.cc))
 ``` C++
 int solution(std::vector<std::vector<int> > maps){
 	int answer;

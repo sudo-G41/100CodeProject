@@ -95,4 +95,6 @@
 [56. 백준 1,2,3 더하기 풀이](/baekjoon/9095_123%EB%8D%94%ED%95%98%EA%B8%B0/) ([문제 링크](https://www.acmicpc.net/problem/9095)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
 # 29.day
 [57. 프로그래머스 전화번호](/programmers/42577%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8/) ([문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42577)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
-[57. 프로그래머스 입국심사](/programmers/43238%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC/) ([문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43238)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+[58. 프로그래머스 입국심사](/programmers/43238%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC/) ([문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43238)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+# 30.day
+[59. 프로그래머스 베스트앨범](/programmers/42579%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94/) ([문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42579)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  

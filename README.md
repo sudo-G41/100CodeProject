@@ -98,3 +98,8 @@
 [58. 프로그래머스 입국심사](/programmers/43238%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC/) ([문제 링크](https://programmers.co.kr/learn/courses/30/lessons/43238)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
 # 30.day
 [59. 프로그래머스 베스트앨범](/programmers/42579%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94/) ([문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42579)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
+# 31.day
+[60. 프로그래머스 2개 이하로 다른 비트](/programmers/77885%EB%91%90%EA%B0%9C%EC%9D%B4%ED%95%98%EB%A1%9C%EB%8B%A4%EB%A5%B8%EB%B9%84%ED%8A%B8/) ([문제 링크](https://programmers.co.kr/learn/courses/30/lessons/77885))  
+[숲속에서 새 구경하기 문제 풀이](/baekjoon/25196숲속에서새구경하기) ([문제 링크](https://www.acmicpc.net/problem/25196)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
+# 32.day
+[61. 프로그래머스 퍼즐 조각 채우기](/programmers/84021%ED%8D%BC%EC%A6%90%EC%A1%B0%EA%B0%81%EC%B1%84%EC%9A%B0%EA%B8%B0/) ([문제 링크](https://programmers.co.kr/learn/courses/30/lessons/84021)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  

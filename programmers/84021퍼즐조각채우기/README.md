@@ -47,7 +47,7 @@
  이를 좀더 표현해보면 왼쪽의 x,y는 오른쪽의 max(y)-y,x 관계라는 것이다.  
  이 점을 이용해 시계방향이든 반시계방향이든 한쪽으로만 3번 돌리면 처음의 모양을 포함한 4가지의 모양이 나온다.  
 
-## 구현([전체 코드 파일](/programmers/폴더이름/코드파일))
+## 구현([전체 코드 파일](/programmers/84021%ED%8D%BC%EC%A6%90%EC%A1%B0%EA%B0%81%EC%B1%84%EC%9A%B0%EA%B8%B0/c.py))
 ``` python
 def solution(game_board, table):
     answer = 0

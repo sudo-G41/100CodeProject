@@ -103,3 +103,5 @@
 [숲속에서 새 구경하기 문제 풀이](/baekjoon/25196숲속에서새구경하기) ([문제 링크](https://www.acmicpc.net/problem/25196)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
 # 32.day
 [61. 프로그래머스 퍼즐 조각 채우기](/programmers/84021%ED%8D%BC%EC%A6%90%EC%A1%B0%EA%B0%81%EC%B1%84%EC%9A%B0%EA%B8%B0/) ([문제 링크](https://programmers.co.kr/learn/courses/30/lessons/84021)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+# 33.day
+[62. 백준 빗물](./baekjoon/14719%EB%B9%97%EB%AC%BC/) ([문제 링크](https://www.acmicpc.net/problem/14719)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  

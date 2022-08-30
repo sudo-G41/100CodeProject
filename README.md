@@ -109,3 +109,5 @@
 # 34.day
 [64. cpp multiset은 추가할 때 중복이 발생하면 어떻게 되는가?](./cpp/setTest/) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
 [63. 백준 가운데를 말해요](./baekjoon/1655%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A5%BC%EB%A7%90%ED%95%B4%EC%9A%94/) ([문제 링크](https://www.acmicpc.net/problem/1655)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+# 35.day
+[64. cpp 병합정렬](./cpp/mergeSort/) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  

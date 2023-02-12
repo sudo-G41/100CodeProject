@@ -9,6 +9,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-f0f0f0?style=for-the-badge&logo=Rust&logoColor=black)
 # 1day
 [1. 배열 만들고 입력받아서 출력하기(학생 정보 1개)](/c/1_ArrayPointerStruct.c) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
 [2. LinkedList(삽입, 출력)](/c/2_linkedlist.c) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
@@ -111,3 +112,5 @@
 [66. 백준 가운데를 말해요](./baekjoon/1655%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A5%BC%EB%A7%90%ED%95%B4%EC%9A%94/) ([문제 링크](https://www.acmicpc.net/problem/1655)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
 # 35.day
 [67. 비트로 놀아보자](/cpp/my_lib/) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
+# 36.day
+[68. rust programming](/rust/myRustProject/) <img src="https://img.shields.io/badge/Rust-f0f0f0?style=flat-square&logo=rust&logoColor=black"/>  

@@ -114,3 +114,5 @@
 [67. 비트로 놀아보자](/cpp/my_lib/) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
 # 36.day
 [68. rust programming](/rust/myRustProject/) <img src="https://img.shields.io/badge/Rust-f0f0f0?style=flat-square&logo=rust&logoColor=black"/>  
+# 37.day
+[69. 프로그래머스 호텔 대실](/programmers/155651%ED%98%B8%ED%85%94%EB%8C%80%EC%8B%A4/) ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155651)) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  

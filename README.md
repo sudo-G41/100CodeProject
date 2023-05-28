@@ -116,3 +116,10 @@
 [68. rust programming](/rust/myRustProject/) <img src="https://img.shields.io/badge/Rust-f0f0f0?style=flat-square&logo=rust&logoColor=black"/>  
 # 37.day
 [69. 프로그래머스 호텔 대실](/programmers/155651%ED%98%B8%ED%85%94%EB%8C%80%EC%8B%A4/) ([문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/155651)) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
+# 38.day
+[70. 백준 미로탐색](./baekjoon/2178%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89/) ([문제 링크](https://www.acmicpc.net/problem/2178)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+[71. 백준 기타 레슨](./baekjoon/2343%EA%B8%B0%ED%83%80%EB%A0%88%EC%8A%A8/) ([문제 링크](https://www.acmicpc.net/problem/2343)) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
+[72. 백준 용액](./baekjoon/2467%EC%9A%A9%EC%95%A1/) ([문제 링크](https://www.acmicpc.net/problem/2467)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
+[73. 백준 안전영역](./baekjoon/2468%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD/) ([문제 링크](https://www.acmicpc.net/problem/2468)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>  
+[74. 백준 단순한 문제](./baekjoon/25494%EB%8B%A8%EC%88%9C%ED%95%9C%EB%AC%B8%EC%A0%9C_Small/) ([문제 링크](https://www.acmicpc.net/problem/25494)) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>    
+[75. 백준 효율적인 애니메이션감상](./baekjoon/27313%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%EC%95%A0%EB%8B%88%EB%A7%A4%EC%9D%B4%EC%85%98%EA%B0%90%EC%83%81/) ([문제 링크](https://www.acmicpc.net/problem/27313)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  

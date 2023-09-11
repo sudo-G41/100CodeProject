@@ -125,3 +125,5 @@
 [75. 백준 효율적인 애니메이션감상](./baekjoon/27313%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%EC%95%A0%EB%8B%88%EB%A7%A4%EC%9D%B4%EC%85%98%EA%B0%90%EC%83%81/) ([문제 링크](https://www.acmicpc.net/problem/27313)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
 # 39.day
 [76. 백준 카드게임](./baekjoon/16566%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84/) ([문제 링크](https://www.acmicpc.net/problem/16566)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+# 40.day
+[77. upgrade prime check](./cpp/updatePrimeNumber/) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>    

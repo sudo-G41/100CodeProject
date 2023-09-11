@@ -24,7 +24,7 @@ $a$와 $b$는 $N$의 약수이고 이러한 점에 의해 모든 약수는 짝�
 이 장황한 설명을 왜 했냐? 위의 코드중 i!=num;을 i*i!=num까지(i != 루트num 의 양변을 제곱한 것 이라 같다고 볼 수 있다.)로 변경해도 된다는 이야기고 이러면 속도가 O($N$)에서 O($log N$)으로 엄청 줄어든다.
 ```cpp
 bool prim(int num){
-    for(int i=2; i!=num; i++){
+    for(int i=2; i*i<=num; i++){
         if(!(num%i)){return false;}
     }
     return true;
@@ -42,7 +42,7 @@ bool prim(int num){
 ```cpp
 bool prim(int num){
     if(num%2 || num == 2){
-        for(int i=3; i!=num; i++){
+        for(int i=3; i*i<=num; i++){
             if(!(num%i)){return false;}
         }
         return true;
@@ -59,7 +59,7 @@ bool prim(int num){
 bool prim(int num){
     if(num%2 || num==2){
         //i++에서 i+=2로 짝수는 건너뛰기!
-        for(int i=3; i!=num; i+=2){
+        for(int i=3; i*i<=num; i+=2){
             if(!(num%i)){return false;}
         }
         return true;
@@ -72,9 +72,9 @@ bool prim(int num){
 
 우선 코드 먼저 올린다.
 ```cpp
-bool prime(int i){
-	if(i<13){
-		switch(i){
+bool prime(int num){
+	if(num<13){
+		switch(num){
 			case 2: case 3: case 5:
 			case 7:	case 11:
 				return true;
@@ -82,18 +82,18 @@ bool prime(int i){
 				return false;
 		}
 	}
-	switch(i%10){
+	switch(num%10){
 		case 1: case 3:
 		case 7: case 9:
-			switch(i%12){
+			switch(num%12){
 				case 1: case 5:
 				case 7: case 11:
-					int n = 3;
-					while(i>n*n){
-						if(!(i%n)){return false;}
-						n+=2;
+					int i = 3;
+					while(num>i*i){
+						if(!(num%i)){return false;}
+						i+=2;
 					}
-					return i != (n*n);
+					return num != (i*i);
 			}
 	}
 	return false;
@@ -101,8 +101,8 @@ bool prime(int i){
 ```
 우선
 ```cpp
-if(i<13){
-    switch(i){
+if(num<13){
+    switch(num){
         case 2: case 3: case 5:
         case 7:	case 11:
             return true;
@@ -116,7 +116,7 @@ if(i<13){
 
 그 다음으로 
 ```cpp
-switch(i%10){
+switch(num%10){
     case 1: case 3:
     case 7: case 9:
         ...//무언가 코드...
@@ -128,16 +128,16 @@ return false;
 이걸 이용하여 짝수와 5의 배수는 걸러냈다.
 그럼 저 무언가 코드를 한번 보자
 ```cpp
-switch(i%12){
+switch(num%12){
     case 1: case 5:
     case 7: case 11:
     ///여기부터
-        int n = 3;
-        while(i>n*n){
-            if(!(i%n)){return false;}
-            n+=2;
+        int i = 3;
+        while(num>i*i){
+            if(!(num%i)){return false;}
+            i+=2;
         }
-        return i != (n*n);
+        return num != (i*i);
         ///여기까지
 }
 ```

@@ -127,3 +127,5 @@
 [76. 백준 카드게임](./baekjoon/16566%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84/) ([문제 링크](https://www.acmicpc.net/problem/16566)) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
 # 40.day
 [77. upgrade prime check](./cpp/updatePrimeNumber/) <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>    
+# 41.day
+[78. Data Struct](./c/8_dataStruct.c) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>    

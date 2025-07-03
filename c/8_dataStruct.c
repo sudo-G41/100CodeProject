@@ -156,6 +156,7 @@ void listAdd(){
         printf("size under\n");
     }
     else{
+        // 리스트에 데이터 삽입하는 코드
         Node* n=L->head;
         for(int i = 0; i!=idx; i++){
             n = n->next;
@@ -165,6 +166,7 @@ void listAdd(){
         data->next = n->next;
         n->next = data;
         L->size++;
+        // 여기까지
     }
 }
 
@@ -175,6 +177,7 @@ void printList(){
     if(L->size){
         Node* n = L->head->next;
         printf("list: [ ");
+        // 리스트에서 모든 데이터를 조회하는 코드
         while(1){
             printf("%d ", n->val);
             n = n->next;
@@ -184,6 +187,7 @@ void printList(){
             }
             printf("-> ");
         }
+        //여기까지
     }
     else{
         printf("list: []... it's empty\n");

@@ -9,7 +9,11 @@ char* b;
 int main(){
     int i;
     b = (char*)malloc(sizeof(char) * 101);
+<<<<<<< HEAD
     printf("자료구조를 사용해보자\n");
+=======
+    printf("알고리즘을 사용해보자\n");
+>>>>>>> ff75793 ([수정] 자료구조)
     printf("1. linked list\n");
     printf("2. stack\n");
     printf("3. queue\n");

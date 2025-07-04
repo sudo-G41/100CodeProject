@@ -37,7 +37,7 @@ void queueMain();
 int main(){
     int i;
     b = (char*)malloc(sizeof(char) * 101);
-    printf("알고리즘을 사용해보자\n");
+    printf("자료구조를 사용해보자\n");
     printf("1. linked list\n");
     printf("2. stack\n");
     printf("3. queue\n");

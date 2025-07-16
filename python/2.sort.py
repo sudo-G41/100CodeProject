@@ -1,6 +1,6 @@
 from random import shuffle
 
-arr = list(range(0,10))
+arr = list(range(0,16))
 shuffle(arr)
 
 a1 = arr[:]
@@ -55,10 +55,10 @@ def me(ar):
     if len(ar) == 1:
         return ar
     mi = len(ar)>>1
-    #print(ar,"→", ar[:mi], ar[mi:])
+    #print("분할:",ar,"→", ar[:mi], ar[mi:])
     le, ri = me(ar[:mi]), me(ar[mi:])
     ar = []
-    #print(le, ri, end="→")
+    #print("병합:",le, ri, end=" → ")
     while le and ri:
         ar.append(le.pop(0) if le[0] < ri[0] else ri.pop(0))
     #print(ar+le+ri)
@@ -67,6 +67,8 @@ def me(ar):
 #힙정렬(최소힙 사용)
 def hea():
     global a3
+    # 리스트를 최소힙 형태로 변경
+    # 루트의 자식노드 부터 마지막 노드까지 자신의 위치로 이동시켜 최소 힙 형태가 되도록 함
     for par in range(1, len(a3)):
         chi = True
         while chi:
